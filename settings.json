@@ -1,0 +1,9 @@
+{
+  "version": "1.11.4-portfolio",
+  "db_path": "data/prices.db",
+  "collector_path": "collector/market_collector_v14.py",
+  "company_text": "SANA Market Price Monitoring — Portfolio Edition",
+  "theme": "blue",
+  "font_family": "Tahoma",
+  "font_size": 13
+}

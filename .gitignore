@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Build output
+build/
+dist/
+*.spec
+
+# Runtime output
+logs/
+backups/
+diagnostics/
+collector_*.log
+
+# Local/private configuration
+.env
+.env.*
+!.env.example
+
+# Databases generated during real use
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
